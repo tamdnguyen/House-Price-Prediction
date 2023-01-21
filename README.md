@@ -6,5 +6,6 @@ The project aims to apply the knowledge from the course Machine Learning (ML) to
 
 For the more detailed description, read the project report [here](https://github.com/tamdnguyen/House-Price-Prediction/blob/main/Documentation/PDF%20files/House%20Price%20Prediction%20Report.pdf).
 
-Last update: 15.05.2022
+Last update: 21.01.2023
+
 Happy Learning! Cheers!
